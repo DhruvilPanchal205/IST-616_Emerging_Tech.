@@ -1,4 +1,4 @@
-# IST-616-Emerging_Tech 
+# IST-616 Emerging Tech 
 
 Welcome to the IST-616-Emerging_Tech repository! This repository houses real-world projects, datasets, and research work related to emerging technologies, quantitative and qualitative data analysis, and social media analytics.
 
