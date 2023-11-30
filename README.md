@@ -6,7 +6,7 @@ Welcome to the IST-616-Emerging_Tech repository! This repository houses real-wor
 
 ### Research Paper: "How to Measure Influence on Twitter – A Paper Review"
 - Description: This directory contains the research paper titled "How to Measure Influence on Twitter – A Paper Review" along with associated resources.
-- Directory: `Twitter_Influence_Paper/`
+- Directory: [`Twitter_Influence_Paper/`](https://github.com/DhruvilPanchal205/IST-616-Emerging_Tech./blob/c03a4d0c0e5042c3816f99445a9bae30a6867ba9/Research%20Paper%20by%20Dhruvil%20Panchal.docx)
 
 ## Presentations
 
